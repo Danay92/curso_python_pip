@@ -1,2 +1,8 @@
-# curso_python_pip
-Aprendiendo a utilizar control de versiones.
+# Game Project
+
+Para ejecutar el juego debes seguir las siguientes instrucciones.
+
+```sh
+cd game
+python3 main.py
+```
